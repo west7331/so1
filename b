@@ -22,7 +22,7 @@
       "url": "https://assets.sonoyuncu.com.tr/bootstrap/bootstrap_linux.tar.gz"
     }
   },
-  "launcher_jar_url": "https://github.com/west7331/so1/blob/main/launcher.jar",
+  "launcher_jar_url": "https://github.com/west7331/so1/raw/main/launcher.jar",
   "launcher_jar_checksum": "62a23f451c77276801eb2a78269b5e86e20df4dd",
   "launcher_path": "launcher.jar",
   "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%"
